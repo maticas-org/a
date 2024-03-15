@@ -19,5 +19,14 @@ pip install -r requirements.txt
 To run the game, simply execute the following command:
 
 ```bash
-python main.py
+python ./src/main.py
 ```
+
+## How to Play
+
+- Use space bar to jump and avoid obstacles.
+- The game ends when the alien collides with 3 obstacles.
+
+()[./imgs/menu.png]
+()[./imgs/gameplay.png]
+()[./imgs/random_select.png]
