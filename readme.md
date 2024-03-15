@@ -27,6 +27,6 @@ python ./src/main.py
 - Use space bar to jump and avoid obstacles.
 - The game ends when the alien collides with 3 obstacles.
 
-()[./imgs/menu.png]
-()[./imgs/gameplay.png]
-()[./imgs/random_select.png]
+![Menu](./imgs/menu.png)
+![Gameplay](./imgs/gameplay.png)
+![Random Select](./imgs/random_select.png)
